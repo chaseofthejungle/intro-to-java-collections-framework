@@ -10,7 +10,8 @@
 4. [HashMaps vs. ConcurrentHashMaps](#concurrent)
 5. [Comparables vs. Comparators](#comparators)
 6. [List Iteraction Approaches](#approaches)
-
+7. [Supplemental Resource](#supplemental)
+  
 <hr />
 
 ## 1. <a name="linked-lists">ArrayLists vs. LinkedLists</a>
@@ -34,6 +35,12 @@
 <hr />
 
 ## 6. <a name="approaches">List Iteraction Approaches</a>
+
+<hr />
+  
+## 7. <a name="supplemental">Supplemental Resource</a>
+
+[Java Data Structure Leetcode Interview Questions](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions)
 
 <hr />
   
