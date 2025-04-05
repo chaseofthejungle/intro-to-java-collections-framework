@@ -10,7 +10,7 @@
 4. [HashMaps vs. ConcurrentHashMaps](#concurrent)
 5. [Comparables vs. Comparators](#comparators)
 6. [List Iteraction Approaches](#approaches)
-7. [Supplemental Resource](#supplemental)
+7. [Supplemental Resources](#supplemental)
   
 <hr />
 
@@ -38,10 +38,11 @@
 
 <hr />
   
-## 7. <a name="supplemental">Supplemental Resource</a>
-
-[Java Data Structure Leetcode Interview Questions](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions)
-
+## 7. <a name="supplemental">Supplemental Resources</a>
+  
+* *[Intro to Java Overview Guide](https://github.com/chaseofthejungle/intro-to-java)*  
+* *[Java Data Structure Leetcode Interview Questions](https://github.com/chaseofthejungle/java-data-structure-leetcode-interview-questions)*
+  
 <hr />
   
 TODO: Develop all six sections.
